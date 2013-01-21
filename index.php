@@ -3,7 +3,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Calendario estilizado con CSS - CSSBlog ES</title>
-	<link href="http://www.cssblog.es/ejemplos/calendario-css/styles2.css" rel="stylesheet" type="text/css">
+	<link href="css/calendario.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 	<h1>Calendario estilizado con CSS - CSSBlog ES</h1>
