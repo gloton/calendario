@@ -57,7 +57,7 @@ td {
 	width: 20px;
 	height: 20px;
 	text-align: center;
-	background: url(http://www.cssblog.es/ejemplos/calendario-css/bg_calendar.gif) no-repeat right bottom;
+	background: url(../images/bg_calendar.gif) no-repeat right bottom;
 }
 
 td a {
@@ -68,10 +68,10 @@ td a {
 
 td a:link, td a:visited {	
 	color: #608194;
-	background: url(http://www.cssblog.es/ejemplos/calendario-css/bg_calendar.gif) no-repeat;
+	background: url(../images/bg_calendar.gif) no-repeat;
 }
 
 td a:hover, td a:active {
 	color: #6aa3ae;
-	background: url(http://www.cssblog.es/ejemplos/calendario-css/bg_calendar.gif) no-repeat right top;
+	background: url(../images/bg_calendar.gif) no-repeat right top;
 }
